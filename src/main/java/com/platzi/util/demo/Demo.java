@@ -1,4 +1,4 @@
-package com.platzi;
+package com.platzi.util.demo;
 
 public class Demo {
 
