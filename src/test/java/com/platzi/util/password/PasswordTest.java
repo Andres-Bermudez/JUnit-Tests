@@ -1,6 +1,5 @@
-package com.platzi;
+package com.platzi.util.password;
 
-import com.platzi.util.password.Password;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
 import static org.junit.jupiter.api.Assertions.*;
