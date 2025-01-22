@@ -44,5 +44,13 @@
             <artifactId>commons-dbcp2</artifactId>
             <version>2.12.0</version>
         </dependency>
+
+        <!-- Para crear una base de datos en memoria para los tests de integracion -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <version>2.2.220</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 </project>
